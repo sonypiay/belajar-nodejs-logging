@@ -1,0 +1,19 @@
+{
+  "name": "belajar-nodejs-logging",
+  "version": "1.0.0",
+  "description": "Belajar NodeJs Logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonypiay/belajar-nodejs-logging.git"
+  },
+  "author": "sonypiay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonypiay/belajar-nodejs-logging/issues"
+  },
+  "homepage": "https://github.com/sonypiay/belajar-nodejs-logging#readme"
+}
